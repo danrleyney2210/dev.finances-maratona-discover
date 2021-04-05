@@ -13,12 +13,25 @@
  <img src="./assets/app5.png" />
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+
 </p>
+
 
 <br>
 
 ## Projeto
 Esse projeto é resultado da maratona discover da Rocktseat. Foram feitas algumas alterações do projeto original entre cores e  alterações do código javascript. 
+
+## 🎨 Layout
+
+Demonstração do projeto no meu linkedin:
+
+<a align="center" href="https://www.linkedin.com/feed/update/urn:li:activity:6784565836750323712/">
+    <img alt="Maratona discover" src=https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-santos-a482041b2/">
+</a>
+
+<br>
+
 
 ## 🚀 Tecnologias
 
@@ -43,3 +56,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 Feito com ♥ by Danrley 
+
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danrleypow@gmail.com)](mailto:danrleypow@gmail.com)
+
+
